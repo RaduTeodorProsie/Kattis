@@ -19,6 +19,8 @@ using ull = unsigned long long;
 using pii = pair<int,int>;
 using ld = double;
 
+///pretty standard knapsack. Try to use map for an easier implementation
+
 mt19937 rng(chrono::steady_clock::now().time_since_epoch().count());
 
 constexpr int NMAX = 1e6 + 1;

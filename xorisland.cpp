@@ -5,6 +5,7 @@ using namespace std;
 
 
 ///my favourite <3
+///hint : each islander will assume they are not in a triangle untill proven otherwise
 
 constexpr int nmax = 1 << 25;
 

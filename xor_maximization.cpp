@@ -2,6 +2,8 @@
 using namespace std;
 using ll = long long;
 
+///standard xor basis problem
+
 const int B = 63;
 
 ll baza[B];

@@ -8,6 +8,8 @@ using namespace std;
 using pii = pair<int,int>;
 using ll = int;
 
+///make your own hashes and pray
+
 char p;
 
 inline int getint()

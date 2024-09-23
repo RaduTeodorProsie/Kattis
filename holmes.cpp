@@ -5,6 +5,8 @@
 #include<algorithm>
 using namespace std;
 
+///hint : for every node, try to prove by contradiction wether or not it is true
+
 constexpr int nmax = 1e3 + 1;
 
 bitset<nmax> need[nmax], ans;
@@ -80,6 +82,5 @@ int main()
     //for(int i = 1; i <= n ; i++) surse(i);
     for(int i = 1; i <= n ; i++)
         if(ans[i]) cout << i << " ";
-
 
 }
