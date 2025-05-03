@@ -7,6 +7,34 @@ using namespace std;
 ///my favourite <3
 ///hint : each islander will assume they are not in a triangle untill proven otherwise
 
+/*
+
+     
+
+
+
+
+ ____              _ _             ____  _            _             _ 
+/ ___| _ __   ___ (_) | ___ _ __  | __ )| | ___   ___| | _____ _ __| |
+\___ \| '_ \ / _ \| | |/ _ \ '__| |  _ \| |/ _ \ / __| |/ / _ \ '__| |
+ ___) | |_) | (_) | | |  __/ |    | |_) | | (_) | (__|   <  __/ |  |_|
+|____/| .__/ \___/|_|_|\___|_|    |____/|_|\___/ \___|_|\_\___|_|  (_)
+      |_|                                                             
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                   
+
+
+
+
+
+
+
+
+*/
+
 constexpr int nmax = 1 << 25;
 
 int dp[nmax], seen[nmax], v[25], n, sz;
