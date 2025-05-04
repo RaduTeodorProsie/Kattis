@@ -44,8 +44,7 @@ long long steps_to_exceed(const long long N, const long long X,
 }
 
 bool cycle(const pair<ll, int> &x, const ll j) {
-    const int lg = __lg(x.second);
-    return (x.first + lg > j);
+    return (x.first + __lg(x.second) > j);
 }
 
 int main() {
