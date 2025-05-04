@@ -1,0 +1,1 @@
+for every node, try to prove by contradiction wether or not it is true

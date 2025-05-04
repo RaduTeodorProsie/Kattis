@@ -1,0 +1,1 @@
+find what is repeating during the process, and in general just observe it by brute force and printing.

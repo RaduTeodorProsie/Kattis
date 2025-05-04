@@ -1,0 +1,1 @@
+find the contribution, or find the expected number of inversions * 2 ^ k

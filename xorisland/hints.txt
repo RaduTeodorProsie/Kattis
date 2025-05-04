@@ -1,0 +1,1 @@
+each islander will assume they are not in a triangle untill proven otherwise
