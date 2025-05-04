@@ -25,6 +25,6 @@ This table links to the Kattis problem page, the solution code, and the hints fi
 | Xor Maximization        |   C++    | ![Difficulty](https://raster.shields.io/badge/Kattis-6.8-red.png) | [Link 🔗](https://open.kattis.com/problems/xormax)| [Code 📄](https://github.com/RaduTeodorProsie/Kattis/blob/main/xor_maximization/xor_maximization.cpp) | [Hints 📝](https://github.com/RaduTeodorProsie/Kattis/blob/main/xor_maximization/hints.txt) |
 | Xorisland               |   C++    | ![Difficulty](https://raster.shields.io/badge/Kattis-7.0-red.png) | [Link 🔗](https://open.kattis.com/problems/xorisland)     | [Code 📄](https://github.com/RaduTeodorProsie/Kattis/blob/main/xorisland/xorisland.cpp)       | [Hints 📝](https://github.com/RaduTeodorProsie/Kattis/blob/main/xorisland/hints.txt)     |
 
-*\*Difficulty ratings are approximate. Badges provided by [shields.io](https://shields.io/).*
+*\*Difficulty ratings are accurate at the time of writing. Badges provided by [shields.io](https://shields.io/).*
 
 ---
